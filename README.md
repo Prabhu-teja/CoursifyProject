@@ -1,1 +1,1 @@
-"CoursifyProject" 
+CoursifyProject
